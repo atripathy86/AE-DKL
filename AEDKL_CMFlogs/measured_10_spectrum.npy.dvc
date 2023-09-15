@@ -1,0 +1,4 @@
+outs:
+- md5: e3ad34cce07f900cad6715d4a9894e00
+  size: 488
+  path: measured_10_spectrum.npy

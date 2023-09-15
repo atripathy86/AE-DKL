@@ -1,0 +1,4 @@
+outs:
+- md5: ded27ea34ec488e455ddc2c057619386
+  size: 93421
+  path: inference_10_spectral_reconstruction.png

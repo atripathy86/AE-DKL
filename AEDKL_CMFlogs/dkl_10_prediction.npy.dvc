@@ -1,0 +1,4 @@
+outs:
+- md5: 88e108792410788f27ba3c0b421e04d3
+  size: 1037888
+  path: dkl_10_prediction.npy

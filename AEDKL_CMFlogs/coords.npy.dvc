@@ -1,0 +1,4 @@
+outs:
+- md5: d19ae1ce64eb6dbcc8f7fb5b74c25908
+  size: 45248
+  path: coords.npy

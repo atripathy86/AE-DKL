@@ -1,0 +1,4 @@
+outs:
+- md5: a5a266f0e1a39c2e7caf5beace2b2c7f
+  size: 1600
+  path: active_spectra_2.npy

@@ -1,0 +1,4 @@
+outs:
+- md5: 7553d105d4daca0e6b36933496ad00b4
+  size: 288896
+  path: patches_10.npy

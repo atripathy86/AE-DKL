@@ -1,0 +1,4 @@
+outs:
+- md5: c223313abf5e0ce83aeea3fec7f7549a
+  size: 488
+  path: predicted_10_spectrum.npy

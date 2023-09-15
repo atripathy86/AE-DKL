@@ -1,0 +1,4 @@
+outs:
+- md5: 75bd0a3f855736a4002ea8bcce0e2587
+  size: 103904
+  path: spectra_10.npy

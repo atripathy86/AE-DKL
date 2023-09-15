@@ -1,0 +1,4 @@
+outs:
+- md5: 1d7681d27e7a2aa405c7454ce0f15e9b
+  size: 19496868
+  path: trained_dklgpr_10.pt
