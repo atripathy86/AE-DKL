@@ -1,4 +1,4 @@
 outs:
-- md5: d066b28cc667df6ef7663c742016ecff
-  size: 25628071
+- md5: 1051ee1b85577ea3a9ff594c5ffedead
+  size: 25627687
   path: trained_dklgpr.pt

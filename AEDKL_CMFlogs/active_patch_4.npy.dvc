@@ -1,0 +1,4 @@
+outs:
+- md5: 9e9749695b25ce2c3063d75c2696a6db
+  size: 6272
+  path: active_patch_4.npy

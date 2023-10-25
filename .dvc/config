@@ -1,0 +1,8 @@
+[core]
+    remote = amazons3
+['remote "local-storage"']
+    url = /Intersect/
+['remote "amazons3"']
+    url = s3://reptiledkl
+    access_key_id = AKIAS2D5UKH2XV27MW5X
+    secret_access_key = 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
