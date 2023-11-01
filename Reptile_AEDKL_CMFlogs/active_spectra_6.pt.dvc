@@ -1,0 +1,4 @@
+outs:
+- md5: 23ebf01705eb842007ba1690e3e9bb23
+  size: 6721
+  path: active_spectra_6.pt

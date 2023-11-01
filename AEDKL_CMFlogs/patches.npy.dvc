@@ -1,4 +1,5 @@
 outs:
-- md5: b4b4f25f737cf0e5ba3158a079b510a7
-  size: 2887808
+- md5: 17d7b74ac77b6a594dc0d8246a88f436
+  size: 280
   path: patches.npy
+  isexec: true

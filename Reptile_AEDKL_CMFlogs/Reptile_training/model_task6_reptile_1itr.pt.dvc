@@ -1,0 +1,4 @@
+outs:
+- md5: f8cb23cbdb57678a4c4b23cec7f88b23
+  size: 18855837
+  path: model_task6_reptile_1itr.pt

@@ -1,0 +1,4 @@
+outs:
+- md5: 867fe33580a7194f7de251759671b051
+  size: 80093281
+  path: task3_reptile_1itr.pt

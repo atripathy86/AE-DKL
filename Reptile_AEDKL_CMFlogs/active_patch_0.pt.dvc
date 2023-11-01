@@ -1,0 +1,4 @@
+outs:
+- md5: 1b4eb61c0af9b3d28ae62af2dad17c30
+  size: 9085
+  path: active_patch_0.pt
