@@ -1,0 +1,4 @@
+outs:
+- md5: 64c7ebf43572a6b52ac21eff4aab1ed0
+  size: 6266236
+  path: base_model_7.pt

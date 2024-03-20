@@ -1,0 +1,4 @@
+outs:
+- md5: 06a9a0c94b233665f0501a1397d88fa2
+  size: 180290584
+  path: cv0_task12_reptile_41itr.pt

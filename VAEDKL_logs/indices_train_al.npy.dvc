@@ -1,0 +1,4 @@
+outs:
+- md5: 7c0996ba7a09d395d57954d978b902cf
+  size: 528
+  path: indices_train_al.npy

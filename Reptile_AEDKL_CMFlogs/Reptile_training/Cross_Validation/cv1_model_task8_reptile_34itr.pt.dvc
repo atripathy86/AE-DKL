@@ -1,0 +1,4 @@
+outs:
+- md5: b62826ba5471afce87d3e34022bfa848
+  size: 18856885
+  path: cv1_model_task8_reptile_34itr.pt

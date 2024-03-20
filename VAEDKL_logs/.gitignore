@@ -1,0 +1,11 @@
+/train_data.npy
+/target_data.npy
+/embedding.npy
+/dkl_1_model.pt
+/prediccted_std.npy
+/predicted_mean.npy
+/indices_train_al.npy
+/predicted_unc.npy
+/indices_unmeasured_al.npy
+/X_al.npy
+/trgt_enthalpy_al.npy

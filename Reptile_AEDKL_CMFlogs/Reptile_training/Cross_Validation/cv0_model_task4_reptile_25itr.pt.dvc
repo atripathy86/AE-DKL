@@ -1,0 +1,4 @@
+outs:
+- md5: 9529e542e349ce6dea65afca7c5ffe50
+  size: 18856885
+  path: cv0_model_task4_reptile_25itr.pt
