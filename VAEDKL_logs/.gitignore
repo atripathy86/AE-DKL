@@ -9,3 +9,4 @@
 /indices_unmeasured_al.npy
 /X_al.npy
 /trgt_enthalpy_al.npy
+/dkl1_nn_params_dict.npy
